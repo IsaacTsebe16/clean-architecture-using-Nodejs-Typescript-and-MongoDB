@@ -1,4 +1,4 @@
-## Awesome Project Build with Clean Architecture
+## Simple Project Build with Clean Architecture
 
 Steps to run this project:
 
